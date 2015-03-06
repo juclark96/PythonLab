@@ -1,0 +1,1 @@
+print "The result of this is " + str( 1.0 + 5.0/3.0 )
